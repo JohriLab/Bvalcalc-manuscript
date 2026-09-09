@@ -1,3 +1,5 @@
+# The B-value calculator: expected diversity with background selection
+
 The following files in this directory have code to reproduce the B-value calculator (Bvalcalc) manuscript results:
 
 The code used to generate Figure 2 and supplementary figures is available at: Figure2.rmd.
